@@ -75,7 +75,3 @@
 </div>
 
 ###
-
-<img src="https://raw.githubusercontent.com/raryett/raryett/output/snake.svg" alt="Snake animation" />
-
-###
