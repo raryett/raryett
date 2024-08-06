@@ -71,7 +71,8 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=raryett&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=raryett&bg_color=000&border_color=30A3DC&title_color=E94D5F&text_color=FFF"/>
+  <br>
+  
 
 ###
