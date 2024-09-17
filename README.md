@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">👋 Hello! My name is Raryett  Santos aka Teyrar, and I am a passionate and dedicated software developer from Brazil. I am currently pursuing a Bachelor's degree in Information Systems.<br><br>🔭 Current Project:<br>I’m working on developing a student grading system to help teachers manage grades at the end of the semester, especially for those teaching at multiple schools with different grading standards. (Using Java in the back-end and ReactJS in the front-end)<br><br>📚 Learning Focus:<br>I'm currently deepening my knowledge in ReactJS to further enhance my frontend development skills.<br><br>⚡ Hobbies:<br>In my free time, I love playing games, running, training at the gym, and playing with my pets. Feel free to join me on my Twitch channel!</p>
+<p align="left">👋 Hello! My name is Raryett  Santos aka Teyrar, and I am a passionate and dedicated software developer from Brazil. I am currently pursuing a Bachelor's degree in Information Systems.<br><br>🔭 Current Project:<br>Currently, I am working on developing a travel planner called "My Friend" where you can add the trips you plan to take with your friends or alone.. (Using Java in the back-end and ReactJS in the front-end)<br><br>📚 Learning Focus:<br>I'm currently deepening my knowledge in ReactJS to further enhance my frontend development skills.<br><br>⚡ Hobbies:<br>In my free time, I love playing games, running, training at the gym, and playing with my pets. Feel free to join me on my Twitch channel!</p>
 
 ###
 
