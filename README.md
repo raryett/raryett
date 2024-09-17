@@ -22,7 +22,7 @@
 
 ###
 
-<p align="left">👋 Olá! Me chamo Raryett Santos aka Teyrar. Sou uma desenvolvedora de software apaixonada e dedicada do Brasil. Atualmente, estou cursando Bacharelado em Sistemas de Informação.<br><br>🔭 Projeto Atual:<br>No momento, estou trabalhando no desenvolvimento de um sistema de cadastro de notas e alunos para facilitar a vida do professor com as notas no final do semestre, levando em consideração que o professor tenha várias escolas e cada uma tenha uma linha diferenciada de notas.<br><br>📚 Foco de Aprendizado:<br>Estou me aprofundando no meu conhecimento em ReactJS, pois quero melhorar ainda mais minhas habilidades em frontend.<br><br>⚡ Hobbies:<br>Durante o meu tempo livre, adoro jogar, correr, treinar na academia e brincar com meus pets. Sinta-se à vontade para me acompanhar no meu canal da Twitch!</p>
+<p align="left">👋 Olá! Me chamo Raryett Santos aka Teyrar. Sou uma desenvolvedora de software apaixonada e dedicada do Brasil. Atualmente, estou cursando Bacharelado em Sistemas de Informação.<br><br>🔭 Projeto Atual:<br>No momento, estou trabalhando no desenvolvimento um planner de viagem chamado de "Meu amigo" onde você poderá colocar as viagens que pretende fazer com seus amigos ou sozinho.<br><br>📚 Foco de Aprendizado:<br>Estou me aprofundando no meu conhecimento em ReactJS, pois quero melhorar ainda mais minhas habilidades em frontend.<br><br>⚡ Hobbies:<br>Durante o meu tempo livre, adoro jogar, correr, treinar na academia e brincar com meus pets. Sinta-se à vontade para me acompanhar no meu canal da Twitch!</p>
 
 ###
 
